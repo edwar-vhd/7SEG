@@ -1,2 +1,2 @@
 # 7SEG
-7 Segments simulation model
+7-Segment simulation model
